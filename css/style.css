@@ -43,3 +43,8 @@ figcaption{/*font-weight: normal; font-size: 0.75em; line-height: 1.5em; font-fa
 {
   color: black;
 }
+#details a:hover
+{
+  color: black;
+  text-decoration: underline;;
+}
